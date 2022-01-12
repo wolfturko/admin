@@ -34,7 +34,7 @@ def Credit():
 	Space(9); print "#   +++   Admin Panel Bulucu   +++  #"
 	Space(9); print "# Kodlayıcı: wolf_turko sovyet_root #"
 	Space(9); print "# Çeviren ve geliştiren wolf_turko  #"
-	Space(9); print "yeni güncel muhteşem  version       #"
+	Space(9); print "# telegram https://t.me/wolfturko   #"
 	Space(9); print "#####################################"
 
 Credit()
